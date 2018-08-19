@@ -1,5 +1,5 @@
 {
-  "name": "loading2",
+  "name": "@ali/loading2",
   "version": "0.0.1",
   "description": "loading dir files as module to an object",
   "main": "index.js",
@@ -29,6 +29,9 @@
     "type": "git",
     "url": "git://github.com/node-modules/loading.git",
     "web": "https://github.com/node-modules/loading"
+  },
+  "publishConfig": {
+    "registry": "http://registry.npm.alibaba-inc.com"
   },
   "bugs": {
     "url": "https://github.com/node-modules/loading/issues",
